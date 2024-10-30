@@ -1,0 +1,14 @@
+D:\Designs\DotNet\SimpleCSharpConsoleApp\bin\Debug\net8.0\SimpleCSharpConsoleApp.exe
+D:\Designs\DotNet\SimpleCSharpConsoleApp\bin\Debug\net8.0\SimpleCSharpConsoleApp.deps.json
+D:\Designs\DotNet\SimpleCSharpConsoleApp\bin\Debug\net8.0\SimpleCSharpConsoleApp.runtimeconfig.json
+D:\Designs\DotNet\SimpleCSharpConsoleApp\bin\Debug\net8.0\SimpleCSharpConsoleApp.dll
+D:\Designs\DotNet\SimpleCSharpConsoleApp\bin\Debug\net8.0\SimpleCSharpConsoleApp.pdb
+D:\Designs\DotNet\SimpleCSharpConsoleApp\obj\Debug\net8.0\SimpleCSharpConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Designs\DotNet\SimpleCSharpConsoleApp\obj\Debug\net8.0\SimpleCSharpConsoleApp.AssemblyInfoInputs.cache
+D:\Designs\DotNet\SimpleCSharpConsoleApp\obj\Debug\net8.0\SimpleCSharpConsoleApp.AssemblyInfo.cs
+D:\Designs\DotNet\SimpleCSharpConsoleApp\obj\Debug\net8.0\SimpleCSharpConsoleApp.csproj.CoreCompileInputs.cache
+D:\Designs\DotNet\SimpleCSharpConsoleApp\obj\Debug\net8.0\SimpleCSharpConsoleApp.dll
+D:\Designs\DotNet\SimpleCSharpConsoleApp\obj\Debug\net8.0\refint\SimpleCSharpConsoleApp.dll
+D:\Designs\DotNet\SimpleCSharpConsoleApp\obj\Debug\net8.0\SimpleCSharpConsoleApp.pdb
+D:\Designs\DotNet\SimpleCSharpConsoleApp\obj\Debug\net8.0\SimpleCSharpConsoleApp.genruntimeconfig.cache
+D:\Designs\DotNet\SimpleCSharpConsoleApp\obj\Debug\net8.0\ref\SimpleCSharpConsoleApp.dll
