@@ -1,0 +1,15 @@
+D:\Designs\DotNet\NotificationServices\bin\Debug\net8.0\NotificationServices.exe
+D:\Designs\DotNet\NotificationServices\bin\Debug\net8.0\NotificationServices.deps.json
+D:\Designs\DotNet\NotificationServices\bin\Debug\net8.0\NotificationServices.runtimeconfig.json
+D:\Designs\DotNet\NotificationServices\bin\Debug\net8.0\NotificationServices.dll
+D:\Designs\DotNet\NotificationServices\bin\Debug\net8.0\NotificationServices.pdb
+D:\Designs\DotNet\NotificationServices\obj\Debug\net8.0\NotificationServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Designs\DotNet\NotificationServices\obj\Debug\net8.0\NotificationServices.AssemblyInfoInputs.cache
+D:\Designs\DotNet\NotificationServices\obj\Debug\net8.0\NotificationServices.AssemblyInfo.cs
+D:\Designs\DotNet\NotificationServices\obj\Debug\net8.0\NotificationServices.csproj.CoreCompileInputs.cache
+D:\Designs\DotNet\NotificationServices\obj\Debug\net8.0\NotificationServices.sourcelink.json
+D:\Designs\DotNet\NotificationServices\obj\Debug\net8.0\NotificationServices.dll
+D:\Designs\DotNet\NotificationServices\obj\Debug\net8.0\refint\NotificationServices.dll
+D:\Designs\DotNet\NotificationServices\obj\Debug\net8.0\NotificationServices.pdb
+D:\Designs\DotNet\NotificationServices\obj\Debug\net8.0\NotificationServices.genruntimeconfig.cache
+D:\Designs\DotNet\NotificationServices\obj\Debug\net8.0\ref\NotificationServices.dll
