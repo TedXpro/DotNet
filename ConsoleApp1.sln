@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationServices", "Not
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopWatch", "StopWatch\StopWatch.csproj", "{8F29C648-7B15-4969-9A71-5FC8191DA5CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokedex", "Pokedex\Pokedex.csproj", "{DD5E5DD4-D2D8-400C-85B5-F16014D19DAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{8F29C648-7B15-4969-9A71-5FC8191DA5CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F29C648-7B15-4969-9A71-5FC8191DA5CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F29C648-7B15-4969-9A71-5FC8191DA5CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD5E5DD4-D2D8-400C-85B5-F16014D19DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD5E5DD4-D2D8-400C-85B5-F16014D19DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD5E5DD4-D2D8-400C-85B5-F16014D19DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD5E5DD4-D2D8-400C-85B5-F16014D19DAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
