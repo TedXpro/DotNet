@@ -1,14 +1,18 @@
-public class NotifcationService
+public class NotifcationService // publisher class
 {
     // declaring a delegate
-    public delegate void NotificationServiceEvent(string message, string notificationType);
+    public delegate void NotifyDelegate(string message, string messageType);
 
     // declaring an event using the delegate type
-    public event NotificationServiceEvent OnNotify; // OnNotify is an event NAME
+    public event NotifyDelegate OnNotifyEvent;
     
     public void Notify(string message, string notificationType="All")
     {
-        
-        OnNotify?.Invoke(message, notificationType);        
+        // random code here(process done )
+
+        // after finishing the random code, we can raise the event
+        OnNotifyEvent?.Invoke(message, notificationType);
+        OnNotifyEvent(message, notificationType);
+        // OnNotify?.Invoke(message, notificationType);        
     }
 }
